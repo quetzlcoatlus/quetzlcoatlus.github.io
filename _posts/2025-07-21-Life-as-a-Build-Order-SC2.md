@@ -62,6 +62,7 @@ Here is an example of a relatively basic build order in Starcraft II which works
 | 85             | 6:10    | Hatchery                                              | Fourth base                                                                                                                  |
 | 85             | 6:12    | Hatchery                                              | Fifth base -> Keep building hatcheries as you float minerals                                                                 |
 
+
 This is a well-tested generalized Zergling-Baneling build by PiG, a relatively popular SC2 content creator and coach. I won't go through each instruction of the build order, but I left notes that are more accessible for someone that hasn't played SC2 or RTS.
 
 You may notice the supply timings don't include workers (Drones for Zerg), the units responsible for your entire economy in SC2. I believe it's expected that you're constantly producing workers until you've fully saturated your bases. Building workers is what makes the supply count grow (about 1 worker every 12 seconds) when the build doesn't tell you to make a unit that costs supply.
