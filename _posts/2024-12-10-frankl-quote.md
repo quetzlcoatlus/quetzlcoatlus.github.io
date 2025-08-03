@@ -2,7 +2,7 @@
 layout: post
 title: Victor Frankl Quote
 date: 2024-12-10
-description: this is what included images could look like
+description: Victor Frankl quote from Man's Search for Meaning
 tags: quote
 categories: blog
 ---
