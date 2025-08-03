@@ -18,17 +18,10 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "Repositories I&#39;ve worked on!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-lanchester-39-s-laws-and-sc2",
         
@@ -38,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/Lanchesters-Laws-and-SC2/";
+            window.location.href = "/blog/2025/Lanchesters-Laws-and-SC2/";
           
         },
       },{id: "post-life-as-a-build-order-sc2",
@@ -49,7 +42,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/Life-as-a-Build-Order-SC2/";
+            window.location.href = "/blog/2025/Life-as-a-Build-Order-SC2/";
           
         },
       },{id: "post-fretboard-visualizer",
