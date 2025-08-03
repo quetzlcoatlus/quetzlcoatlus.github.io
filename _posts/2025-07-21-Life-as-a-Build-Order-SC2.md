@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life as a Build Order SC2
-date: 2024-12-16
+date: 2025-07-21
 description: Life through the lens of a Starcraft II build order post
 tags: post
 categories: blog

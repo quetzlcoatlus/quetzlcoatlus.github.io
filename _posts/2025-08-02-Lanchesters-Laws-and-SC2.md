@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lanchester's Laws and SC2
-date: 2024-12-16
+date: 2025-08-02
 description: Lanchester's laws and Starcraft II post
 tags: post
 categories: blog
