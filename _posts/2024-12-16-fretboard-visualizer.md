@@ -4,6 +4,7 @@ title: Fretboard Visualizer
 date: 2024-12-16
 description: Fretboard visualizer project post
 tags: post
+giscus_comments: true
 categories: blog
 ---
 

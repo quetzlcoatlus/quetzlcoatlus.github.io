@@ -4,6 +4,7 @@ title: Victor Frankl Quote
 date: 2024-12-10
 description: Victor Frankl quote from Man's Search for Meaning
 tags: quote
+giscus_comments: true
 categories: blog
 ---
 

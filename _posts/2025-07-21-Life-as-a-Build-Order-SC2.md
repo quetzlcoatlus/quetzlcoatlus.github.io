@@ -4,6 +4,7 @@ title: Life as a Build Order SC2
 date: 2025-07-21
 description: Life through the lens of a Starcraft II build order post
 tags: post
+giscus_comments: true
 categories: blog
 ---
 
