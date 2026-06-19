@@ -5,7 +5,7 @@ permalink: /
 subtitle: MEMENTO MORI 🦋
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -33,11 +33,18 @@ latest_posts:
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 {:/comment}
 
-Ahoy there! My name is Alexander (Allie) Lane (they/them). Welcome to my personal website! This is where I'll be hosting my portfolio and blog content as my stake in the IndieWeb movement.
+🦋 یک - یک. دو - دو. هشت.
 
-My professional goals include making a tangible impact in AI Safety, especially interpretability. Cognitive science and philosophy of intelligence is super cool.
+Ahoy there! My name is Alexander (Allie) Lane (they/them). Welcome to my personal website! This is where I'll be hosting my portfolio and assorted blog content as my stake in the IndieWeb movement.
 
-I love video games and I love good stories. I love education and visualizations. I love solving puzzles and learning about the natural world. I hope this site inspires you ^^. There are dragons to slay and treasure to find!
+I'm practicing to be a software engineer. My professional goals include finding roles in AI engineering, full-stack development, and making a tangible impact in AI Safety research. Cognitive science and philosophy of intelligence is super cool. Happy to connect with you to talk at any point!
+
+I love my family and friends. I love good stories. You'll probably see some of the ones that I like here. I love education and visualizations. I love solving puzzles and learning about the natural world. I hope this site inspires you! I strive to reward your patience. There are dragons to slay and treasure to find!
+
+I appreciate you,
+Allie
+
+Thanks al-folio.
 
 {::comment}
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.

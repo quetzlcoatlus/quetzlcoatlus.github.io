@@ -1,3 +1,9 @@
+# TODO for this project
+
+- Update CV
+- Add content like blog
+- Explicit partitioning for professional and personal
+
 # al-folio
 
 <div align="center">

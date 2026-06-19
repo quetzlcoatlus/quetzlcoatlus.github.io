@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Quetzl Coast # the website title (if blank, full name will be used instead)
+title: Allie's Portfolio # the website title (if blank, full name will be used instead)
 first_name: Alexander (Allie)
 middle_name:
 last_name: Lane
@@ -28,12 +28,12 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: catppuccin_latte # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: discord_old_blurple # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: swift # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: one_dark_pro # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: discord # https://github.com/ryo-ma/github-profile-trophy
+  theme_dark: algolia # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: quetzl.dev # blog_name will be displayed in your blog page
+blog_name: allie.dev # blog_name will be displayed in your blog page
 blog_description: Allie's general purpose blog!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
